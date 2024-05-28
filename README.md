@@ -16,7 +16,7 @@ Ensure to follow the dataset providers' guidelines and terms of use.
 ## Contact
 For any queries regarding the code or the research paper, please contact:
 
-Chao Li - [email@email.com]
+Chao Li - [superlee@tjnu.edu.cn]
 
 ## Citation
 If you use this code or the ATGRNet model in your research, please cite our paper:
