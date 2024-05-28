@@ -8,13 +8,12 @@ Due to the objectivity of emotional expression in the central nervous system, EE
 
 ## Datasets
 Our model is evaluated on the following datasets:
-
-SEED
-DEAP
-FACED
+- SEED
+- DEAP
+- FACED
 Ensure to follow the dataset providers' guidelines and terms of use.
 
-Contact
+## Contact
 For any queries regarding the code or the research paper, please contact:
 
 Chao Li - [email@email.com]
